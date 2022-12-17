@@ -88,18 +88,18 @@
 - Latest Version【推荐】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/zjgbql/8he1/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 - Development Version【开发版】
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/reeceyng/v2ray-agent/dev/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/zjgbql/8he1/dev/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 ```
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/reeceyng/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/zjgbql/8he1/master/fodder/install/install.jpg" width=700>
 
 # 版权
 
